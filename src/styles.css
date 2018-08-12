@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+.odd{
+    background:red;
+}
+.even{
+    background:green;
+}
+.bold{
+    font-weight: bold;
+}
+.para{
+    margin:0.5em;
+    border:1px solid black;
+}
